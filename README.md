@@ -4,7 +4,7 @@ This is my first Project made using REACT NATIVE
 Apk Size - 25mb (estimated)
 
 Splash Screen
-<img src="![SplashScreen](https://user-images.githubusercontent.com/61840607/156633442-5454841b-f4ec-4532-b227-10f2c589d36f.jpeg)
+<img src="![SplashScreen](https://github.com/sd535682/Mood_Quotes/blob/master/SplashScreen.jpeg)
 " height="100">
 
 HomeScreen
