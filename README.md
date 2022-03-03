@@ -4,19 +4,22 @@ This is my first Project made using REACT NATIVE
 Apk Size - 25mb (estimated)
 
 Splash Screen
-<img src="![SplashScreen](https://raw.githubusercontent.com/sd535682/Mood_Quotes/master/SplashScreen.jpeg)
-" height="100">
 
-HomeScreen
-![HomeScreen 1](https://user-images.githubusercontent.com/61840607/156622703-d9e1b0d8-3046-4ee0-9f3a-6c34ae759de7.jpeg)
+<img src="https://raw.githubusercontent.com/sd535682/Mood_Quotes/master/Splash.jpeg" height="500">
+
+HomeScreen 1
+
+<img src="https://raw.githubusercontent.com/sd535682/Mood_Quotes/master/HomeScreen%201.jpeg" height="500">
 
 HomeScreen 2
-![Homescreen 2](https://user-images.githubusercontent.com/61840607/156622898-71eb2339-8182-4f2f-88da-05f933c683fe.jpeg)
+
+<img src="https://raw.githubusercontent.com/sd535682/Mood_Quotes/master/Homescreen%202.jpeg" height="500">
 
 Package Info
-![package name](https://user-images.githubusercontent.com/61840607/156622951-a0fa9012-6b02-471c-bf2c-e819d810aac4.jpeg)
+
+<img src="https://raw.githubusercontent.com/sd535682/Mood_Quotes/master/package%20name.jpeg" height="500">
 
 Text To Speech
-https://user-images.githubusercontent.com/61840607/156623060-924a1988-68c7-4a6a-9a1c-9505085a24ee.mp4
 
-Here is the the Apk
+https://user-images.githubusercontent.com/61840607/156646910-0813f4f6-317d-43ee-b5ab-2b2b5d7e2b23.mp4
+
