@@ -5,7 +5,7 @@ Apk Size - 25mb (estimated)
 
 Splash Screen
 <img src="![SplashScreen](https://user-images.githubusercontent.com/61840607/156633442-5454841b-f4ec-4532-b227-10f2c589d36f.jpeg)
-" height="200">
+" height="100">
 
 HomeScreen
 ![HomeScreen 1](https://user-images.githubusercontent.com/61840607/156622703-d9e1b0d8-3046-4ee0-9f3a-6c34ae759de7.jpeg)
